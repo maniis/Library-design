@@ -1,0 +1,19 @@
+INSERT INTO BOOKS (BOOKID,TITLE,AUTHOR,PAGECOUNT,PUBLISHER,STATUS) 
+VALUES ('1001','Fundamentals of Wavelets','Goswami, Jaideva',228,'Wiley','Available');
+INSERT INTO BOOKS (BOOKID,TITLE,AUTHOR,PAGECOUNT,PUBLISHER,STATUS) 
+VALUES ('1002','Fundamentals of Wavelets','Goswami, Jaideva',228,'Wiley','Available');
+INSERT INTO BOOKS (BOOKID,TITLE,AUTHOR,PAGECOUNT,PUBLISHER,STATUS) 
+VALUES ('1003','Data Smart Foreman','John',228,'Wiley','Available');
+INSERT INTO BOOKS (BOOKID,TITLE,AUTHOR,PAGECOUNT,PUBLISHER,STATUS) 
+VALUES ('1004','God Created the Integers','Hawking, Stephen',197,'Penguin','Available');
+
+INSERT INTO DVDS (DVDID,TITLE,YEAR,SIZE,STATUS)  	  
+VALUES ('1001','Encylopedia',2018,'2GB','Available');
+INSERT INTO DVDS (DVDID,TITLE,YEAR,SIZE,STATUS)  	  
+VALUES ('1002','Encylopedia',2018,'2GB','Available');
+INSERT INTO DVDS (DVDID,TITLE,YEAR,SIZE,STATUS)  	  
+VALUES ('1003','Atlas',2021,'4GB','Available');
+
+
+
+
